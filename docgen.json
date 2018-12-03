@@ -1,0 +1,5 @@
+{
+  "dirs": [
+    "components", "controllers", "models", "modules"
+  ]
+}
